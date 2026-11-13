@@ -1,0 +1,7 @@
+Clash Display and Montserrat
+Downloaded unmodified from Fontshare and embedded as WOFF2 in index.html.
+
+Clash Display: https://www.fontshare.com/fonts/clash-display
+Montserrat: https://www.fontshare.com/fonts/montserrat
+
+All font rights and applicable licenses remain with the original authors. Embedding does not transfer ownership of the font designs.
